@@ -14,6 +14,10 @@
   <a href="https://github.com/BigBundit/xreal-anchor-mac/releases/latest">Download / ดาวน์โหลด</a>
 </p>
 
+<p align="center">
+  <img src="docs/menu.png" width="380" alt="XREAL Anchor menu / เมนูของแอป">
+</p>
+
 ---
 
 ## ภาษาไทย
